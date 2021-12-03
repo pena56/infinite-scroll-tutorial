@@ -1,0 +1,17 @@
+.image-card {
+  display: inline-block;
+  margin: 1em 1em 1em;
+  width: 100%;
+  background-color: #1e1e1e;
+  border-radius: 20px;
+}
+
+img {
+  width: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+p {
+  padding: 10px;
+}
